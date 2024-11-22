@@ -18,7 +18,7 @@ This is a web-based application built using React.js and Spring Boot, designed f
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/temperature-management-system.git
+   git clone https://github.com/khaireddine24/Temperature-Management-App.git
 
 2. Navigate to the backend directory and run the Spring Boot application:
    cd backend
